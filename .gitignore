@@ -1,1 +1,9 @@
 **/.vscode/
+
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+*.class
+*.jar

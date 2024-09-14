@@ -12,3 +12,7 @@ Esta asignatura aborda temas clave en el desarrollo de software enfocados en la 
 ## Trabajo Práctico N°1
 
 El **TP1** aborda la implementación de modelos orientados a objetos aplicando patrones de diseño como State, Singleton, Composite y Strategy para resolver problemas de gestión de pedidos, administración de recursos, ventas y formas de pago.
+
+## Trabajo Práctico N°2
+
+El **TP2** aborda principios SOLID, patrones de diseño como Singleton y Dependency Injection, herramientas de construcción en Java (Ant, Maven, Gradle), el framework Spring, y el versionado de código con Git. También incluye la inicialización de un proyecto Java utilizando Spring Boot con prácticas de versionado en GitHub.
